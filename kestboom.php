@@ -1,5 +1,5 @@
 <?php
-
+include'navbar.php';
 $jaar = 6;
 
 //Teken het aantal kaarsjes op de taart...
