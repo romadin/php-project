@@ -21,9 +21,10 @@
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Opdrachten PHP
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="/busticket">Busticket</a></li>
-          <li><a href="/kestboom">Kerstboom</a></li>
-          <li><a href="#">Page 1-3</a></li> 
+          <li><a href="/busticket.php">Busticket</a></li>
+          <li><a href="/kestboom.php">Kerstboom</a></li>
+          <li><a href="/zwemclub.php">Zwemclub</a></li>
+          <li><a href="/kapperszaak.php">Kapperszaak</a></li>  
         </ul>
       </li>
     </ul>
