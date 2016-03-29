@@ -24,7 +24,8 @@
           <li><a href="/busticket.php">Busticket</a></li>
           <li><a href="/kestboom.php">Kerstboom</a></li>
           <li><a href="/zwemclub.php">Zwemclub</a></li>
-          <li><a href="/kapperszaak.php">Kapperszaak</a></li>  
+          <li><a href="/kapperszaak.php">Kapperszaak</a></li>
+          <li><a href="/functies.php">Functies</a></li>   
         </ul>
       </li>
     </ul>

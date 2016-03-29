@@ -15,7 +15,7 @@ handlers:
 - url: /
   script: main.php  
 
-- url: (.+\.php)$
+- url: /(.+\.php)$
   script: \1
   
   
