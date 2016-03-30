@@ -25,7 +25,8 @@
           <li><a href="/kestboom.php">Kerstboom</a></li>
           <li><a href="/zwemclub.php">Zwemclub</a></li>
           <li><a href="/kapperszaak.php">Kapperszaak</a></li>
-          <li><a href="/functies.php">Functies</a></li>   
+          <li><a href="/functies.php">Functies</a></li> 
+          <li><a href="/artiesten.php">Muziek</a></li>     
         </ul>
       </li>
     </ul>

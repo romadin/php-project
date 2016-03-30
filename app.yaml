@@ -12,6 +12,9 @@ handlers:
   application_readable: true
 
 # Serve php scripts.
+- url: /css
+  static_dir: css
+  
 - url: /
   script: main.php  
 

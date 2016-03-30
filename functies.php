@@ -62,8 +62,8 @@ function delenDoorDrie($number) {
 		}
     
 }
+echo "<br>";
 ?>
-
 
 <form method="POST">
 <h3>Tekst omdraaien</h3>
@@ -85,5 +85,7 @@ function delenDoorDrie($number) {
         echo "voer waarde in";
     }   
   }
+
+echo "<br><br>";
 
 
