@@ -28,8 +28,14 @@
           <li><a href="/functies.php">Functies</a></li> 
           <li><a href="/artiesten.php">Muziek</a></li>     
         </ul>
+        <li><a href="/Mrwheely.php">Mr wheely</a></li>
+        </ul>
       </li>
+      <ul class="nav navbar-nav navbar-right">
+      <li><a href="/register.php"><span class="glyphicon glyphicon-user"></span> Register</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
     </ul>
+    
   </div>
 </nav>
 
